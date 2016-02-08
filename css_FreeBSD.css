@@ -1,0 +1,156 @@
+/*CSS reset settings here*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	color: #900000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+#wrapper{
+	width: 970px;
+	margin: 0px auto;
+	position: relative;
+}
+#top-banner{
+	height: auto;
+	background-color: #700000;
+	padding: 5px;
+}
+#logo{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px;
+}
+#header{
+	display: inline-block;
+	color: white;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-weight: lighter;
+	margin-top: 23px;
+}
+#banner-right{
+	padding-left: 200px;
+	display: inline-block;
+}
+#text-selector{
+	display: block;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	margin-bottom: 10px;
+}
+.banner-links{
+	color: #FFCC33;
+	font-size: 8pt;
+}
+form{
+	display: block;
+	margin-left: 55px;
+}
+#search-bar{
+	border: 1px solid;
+	border-color: white;
+	padding: 2px;
+	padding-left: 5px;
+	font-size: 7pt;
+}
+#search-button{
+	border: 1px solid;
+	border-color: white;
+	background-color: #700000;
+	color: white;
+	padding: 2px;
+	font-size: 7pt;
+}
+#navigation-bar{
+	background-color: #E0E0E0;
+	border-bottom: 1px solid;
+	border-color: #B0B0B0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 25px;
+}
+.navigation-links{
+	color: #707070;
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bolder;
+	font-size: 9pt;
+	border-right: 1px solid;
+	border-color: #B0B0B0;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#left-links{
+	height: auto;
+	width: 120px;
+	background-color: #E0E0E0;
+	margin: 15px;
+	padding-left: 35px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	display: inline-block;
+	border: 1px solid;
+	border-color: #B0B0B0;
+}
+#main_content{
+	height: auto;
+	width: 670px;
+	margin-top: 15px;
+	padding: 15px;
+	display: inline-block;
+	vertical-align: top;
+}
+h2{
+	color: #900000;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14pt;
+	margin-bottom: 10px;
+}
+h3{
+	color: #900000;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10pt;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.table-of-contents{
+	margin-left: 40px;
+}
+.latest-news{
+	margin-left: 40px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10pt;
+}
+span{
+	font-weight: bold;
+}
+.FAQ{
+	margin-left: 40px;
+}
+.main-paragraph{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10pt;
+}
+.intro{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.essays{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+.essay-links{
+	font-weight: bold;
+}
+#top-block{
+	border-bottom: 3px solid #707070;
+	padding-bottom: 15px;
+}
+#middle-block{
+	border-bottom: 3px solid #707070;
+	padding-bottom: 15px;
+}
